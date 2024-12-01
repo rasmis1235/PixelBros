@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Nov 29 16:18:23 IST 2024
+s3-2.25.23.jar>https\://repo.maven.apache.org/maven2/=
+s3-2.25.23.pom>https\://repo.maven.apache.org/maven2/=
+s3-2.25.23.pom>https\://repo.papermc.io/repository/maven-public/=
